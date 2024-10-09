@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Prefix &#8211; Prefix Placement Solutions</title>
+	<atom:link href="/author/prefix/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 09 Mar 2024 08:02:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Getting Placed in Cognizant</title>
+		<link>/getting-placed-in-cognizant/</link>
+		
+		<dc:creator><![CDATA[Prefix]]></dc:creator>
+		<pubDate>Sat, 09 Mar 2024 07:59:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=160</guid>
+
+					<description><![CDATA[It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="540" height="360" src="/wp-content/uploads/2024/03/img.jpg" alt="" class="wp-image-161"/></figure>
+
+
+
+<blockquote class="wp-block-quote">
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many desktop publishing packages and web page editors </p>
+<cite>Lorem</cite></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Getting Placed in TCS</title>
+		<link>/122-2/</link>
+		
+		<dc:creator><![CDATA[Prefix]]></dc:creator>
+		<pubDate>Sun, 03 Mar 2024 10:54:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=122</guid>
+
+					<description><![CDATA[t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="512" height="512" src="/wp-content/uploads/2024/03/Prefix-Placement-1-1.jpg" alt="" class="wp-image-123"/></figure>
+
+
+
+<blockquote class="wp-block-quote">
+<p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their infancy</p>
+<cite>Lorem</cite></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

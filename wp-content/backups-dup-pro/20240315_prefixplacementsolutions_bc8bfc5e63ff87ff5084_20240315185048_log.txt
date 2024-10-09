@@ -1,0 +1,123 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2024-03-15 18:51:00
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.12
+WORDPRESS:	6.4.3
+PHP INFO:	8.2.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+RUN TYPE:	Manual
+MEMORY STACK:	68MB
+ARCHIVE ENGINE: DupArchive
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 31 | filtered:0 | create:31
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 1
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:1] wp_usermeta NUM ROWS: 36
+INSERT ROWS TABLE[INDEX:2] wp_actionscheduler_actions NUM ROWS: 33
+INSERT ROWS TABLE[INDEX:3] wp_actionscheduler_claims NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:4] wp_actionscheduler_groups NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:5] wp_actionscheduler_logs NUM ROWS: 89
+INSERT ROWS TABLE[INDEX:6] wp_commentmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:7] wp_comments NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:8] wp_duplicator_pro_entities NUM ROWS: 5
+INSERT ROWS TABLE[INDEX:9] wp_duplicator_pro_packages NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:10] wp_e_events NUM ROWS: 14
+INSERT ROWS TABLE[INDEX:11] wp_frmt_form_entry NUM ROWS: 7
+INSERT ROWS TABLE[INDEX:12] wp_frmt_form_entry_meta NUM ROWS: 35
+INSERT ROWS TABLE[INDEX:13] wp_frmt_form_reports NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:14] wp_frmt_form_views NUM ROWS: 9
+INSERT ROWS TABLE[INDEX:15] wp_gs_logo_slider NUM ROWS: 49
+INSERT ROWS TABLE[INDEX:16] wp_links NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:17] wp_nextend2_image_storage NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:18] wp_nextend2_section_storage NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:19] wp_nextend2_smartslider3_generators NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:20] wp_nextend2_smartslider3_sliders NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:21] wp_nextend2_smartslider3_sliders_xref NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:22] wp_nextend2_smartslider3_slides NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:23] wp_options NUM ROWS: 305
+INSERT ROWS TABLE[INDEX:24] wp_postmeta NUM ROWS: 612
+INSERT ROWS TABLE[INDEX:25] wp_posts NUM ROWS: 141
+INSERT ROWS TABLE[INDEX:26] wp_simply_static_pages NUM ROWS: 117
+INSERT ROWS TABLE[INDEX:27] wp_termmeta NUM ROWS: 8
+INSERT ROWS TABLE[INDEX:28] wp_terms NUM ROWS: 10
+INSERT ROWS TABLE[INDEX:29] wp_term_relationships NUM ROWS: 17
+INSERT ROWS TABLE[INDEX:30] wp_term_taxonomy NUM ROWS: 10
+SQL FILE SIZE CHECK OK, SIZE: 1162819
+SQL CREATED: 20240315_prefixplacementsolutions_bc8bfc5e63ff87ff5084_20240315185048_database.sql
+SQL FILE SIZE: 1.11MB
+SQL FILE TIME: 2024-03-15 18:51:05
+SQL RUNTIME: 4.639 sec.
+MEMORY STACK: 68MB
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/Wordpress/wordpress_demo
+ARCHIVE FILE: 20240315_prefixplacementsolutions_bc8bfc5e63ff87ff5084_20240315185048_archive.daf
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	192.33MB
+STATS:	Dirs 1,754 | Files 8,822 | Total 10,576
+CREATE ARCHIVE STATE FOR DUP ARCHIVE
+COMPRESSED SIZE: 95.03MB
+ARCHIVE RUNTIME: 192.374 sec.
+MEMORY STACK: 70MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+LOCAL: Default, C:/xampp/htdocs/Wordpress/wordpress_demo/wp-content/backups-dup-pro
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.11MB
+INSTALLER FILE: 164.23KB
+ARCHIVE FILE: 95.03MB 
+EXPECTED FILE/DIRECTORY COUNT: 10,576
+ACTUAL FILE/DIRECTORY COUNT: 10,577
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 199.488 sec.
+PEAK PHP MEMORY USED: 70MB
+DONE PROCESSING => 20240315_prefixplacementsolutions 2024-03-15 18:54:20
+
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+** LOCAL [Name: Default] [ID: -2] **
+SUCCESS: package is in default location: C:/xampp/htdocs/Wordpress/wordpress_demo/wp-content/backups-dup-pro
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+STORAGE PROCESSING COMPLETED
+
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE CREATION OR MANUAL STORAGE TRANSFER END: 2024-03-15 18:54:21
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+********************************************************************************
+
+[PHP ERR][ISSUE] MSG:Creation of dynamic property RRDI_WXR_Importer::$options is deprecated [CODE:8192|FILE:C:\xampp\htdocs\Wordpress\wordpress_demo\wp-content\plugins\rara-one-click-demo-import\includes\extras\class-wxr-importer.php|LINE:94]
+[PHP ERR][ISSUE] MSG:Creation of dynamic property RRDI_WXR_Importer::$options is deprecated [CODE:8192|FILE:C:\xampp\htdocs\Wordpress\wordpress_demo\wp-content\plugins\rara-one-click-demo-import\includes\extras\class-wxr-importer.php|LINE:94]
